@@ -1,0 +1,13 @@
+To change the avatar go into the assets folder and put in your own avatar and make sure it's named avatar.png
+
+
+
+To add the overlay into OBS do the following
+
+1. Open OBS
+2. Add a browser source
+3. Select local file
+4. Select the index.html in the overlay folder (or whatever you named it)
+5. Set the size of the browser source to 1920 by 1080
+6. Set the browser source fps to 60
+DONE! 
